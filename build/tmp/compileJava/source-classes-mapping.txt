@@ -1,0 +1,46 @@
+com/smitie/jukebox/Song.java
+ com.smitie.jukebox.Song
+com/smitie/parkinglot/ParkingSpot.java
+ com.smitie.parkinglot.ParkingSpot
+com/smitie/jukebox/CDPlayer.java
+ com.smitie.jukebox.CDPlayer
+com/smitie/parkinglot/ParkingTicket.java
+ com.smitie.parkinglot.ParkingTicket
+com/smitie/parkinglot/Vehicle.java
+ com.smitie.parkinglot.Vehicle
+com/smitie/parkinglot/Main.java
+ com.smitie.parkinglot.Main
+com/smitie/parkinglot/system/Parking.java
+ com.smitie.parkinglot.system.Parking
+com/smitie/jukebox/JukeBox.java
+ com.smitie.jukebox.JukeBox
+com/smitie/jukebox/Playlist.java
+ com.smitie.jukebox.Playlist
+com/smitie/parkinglot/ParkingLot.java
+ com.smitie.parkinglot.ParkingLot
+com/smitie/parkinglot/VehicleType.java
+ com.smitie.parkinglot.VehicleType
+com/smitie/vendingmachine/Item.java
+ com.smitie.vendingmachine.Item
+com/smitie/parkinglot/system/ParkingSystem.java
+ com.smitie.parkinglot.system.ParkingSystem
+com/smitie/vendingmachine/Main.java
+ com.smitie.vendingmachine.Main
+com/smitie/vendingmachine/Inventory.java
+ com.smitie.vendingmachine.Inventory
+com/smitie/jukebox/Main.java
+ com.smitie.jukebox.Main
+com/smitie/jukebox/Selector.java
+ com.smitie.jukebox.Selector
+com/smitie/jukebox/User.java
+ com.smitie.jukebox.User
+com/smitie/jukebox/CD.java
+ com.smitie.jukebox.CD
+com/smitie/vendingmachine/VendingMachine.java
+ com.smitie.vendingmachine.VendingMachine
+com/smitie/parkinglot/ParkingFloor.java
+ com.smitie.parkinglot.ParkingFloor
+com/smitie/vendingmachine/Coin.java
+ com.smitie.vendingmachine.Coin
+com/smitie/vendingmachine/Selector.java
+ com.smitie.vendingmachine.Selector
